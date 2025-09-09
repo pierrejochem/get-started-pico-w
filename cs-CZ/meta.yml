@@ -1,0 +1,21 @@
+---
+title: Začínáme s Raspberry Pi Pico W
+hero_image: images/banner.png
+description: Začni s Raspberry Pi Pico W
+version: 4
+listed: true
+copyedit: true
+last_tested: '2022-06-30'
+steps:
+- title: Úvod
+- title: Nastav si Raspberry Pi Pico W
+  completion:
+  - engaged
+- title: Připoj svůj Raspberry Pi Pico k WLAN
+- title: Otevři soket
+- title: Vytvořit webovou stránku
+- title: Poskytni svou webovou stránku
+  completion:
+  - internal
+  completion:
+  - external
