@@ -26,7 +26,6 @@ line_numbers: true
 line_number_start:
 line_highlights:
 ---
-
 import network
 import socket
 from time import sleep
@@ -63,8 +62,6 @@ password = 'VAŠE TAJNÉ HESLO'
 --- task ---
 
 Nyní začni vytvářet funkci pro připojení k vaší WLAN síti. Je třeba nastavit objekt `wlan`, aktivovat bezdrátové připojení a poskytnout objektu vaše `ssid` a `password`.
-
-## --- code ---
 
 --- code ---
 ---
